@@ -1,0 +1,4 @@
+module.exports = {
+  CLIENT_ID: 'APP-**********',
+  CLIENT_SECRET: 'd3bb335a-***********',
+}
